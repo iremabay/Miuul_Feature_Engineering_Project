@@ -60,7 +60,3 @@ This project was developed as a part of the [Miuul Feature Engineering Course](h
 Special thanks to [Vahit Keskin](https://www.linkedin.com/in/vahitkeskin/) for their expert insights and mentorship.
 
 Thank you to the entire Miuul team for offering such a comprehensive and enlightening course!
-
-## License
-
-This project is licensed under the MIT License. For more information, refer to the [LICENSE](LICENSE) file.
